@@ -74,16 +74,6 @@ LionDialog.show(
 );
 ```
 
-## 🎨 Theming
-Lion components follow a **themed approach**. You can apply light/dark mode:
-```dart
-MaterialApp(
-  theme: LionTheme.lightTheme,
-  darkTheme: LionTheme.darkTheme,
-  home: HomePage(),
-);
-```
-
 ## 🧪 Running Tests
 To validate the components:
 ```sh
