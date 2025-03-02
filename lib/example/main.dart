@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Lion Components Demo',
       theme: AppTheme .themeData,
-      darkTheme: AppTheme .themeData,
       home: HomePage(),
     );
   }

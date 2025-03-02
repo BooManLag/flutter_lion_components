@@ -1,7 +1,10 @@
 name: flutter_lion_components
-description: "A new Flutter project."
-publish_to: 'none'
 version: 0.1.0
+homepage: https://github.com/BooManLag/flutter_lion_components
+repository: https://github.com/BooManLag/flutter_lion_components
+issue_tracker: https://github.com/BooManLag/flutter_lion_components/issues
+
+description: A Flutter UI component library inspired by Lion Web Components. Provides accessible, themable, and reusable form components.
 
 environment:
   sdk: ^3.6.1
@@ -14,7 +17,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-  test: ^1.25.8
 
 flutter:
   uses-material-design: true
